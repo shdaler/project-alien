@@ -21,5 +21,10 @@
     max-width: 1200px;
     padding-right: 24px;
     padding-left: 24px;
+
+    @include tablet {
+      grid-template-columns: 1fr;
+      height: 100%;
+    }
   }
 }
