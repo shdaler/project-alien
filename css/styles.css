@@ -111,7 +111,9 @@
   width: 100%;
 }
 
-.navbar__menu--links, .navbar__menu, .navbar__logo {
+.navbar__menu--links,
+.navbar__menu,
+.navbar__logo {
   display: flex;
   align-items: center;
 }
@@ -177,4 +179,4 @@
 .navbar__menu #button:hover {
   background: #fb4b4e;
   transition: all 0.3s ease;
-}/*# sourceMappingURL=styles.css.map */
+} /*# sourceMappingURL=styles.css.map */
